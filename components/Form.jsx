@@ -1,9 +1,9 @@
-import Link from "next/link"
+// import Link from "next/link"
 
-const Form = ({type, post,setPost,submitting,handleSubmit}) => {
-  return (
-    <div>Form</div>
-  )
-}
+// const Form = ({type, post,setPost,submitting,handleSubmit}) => {
+//   return (
+//     <div>Form</div>
+//   )
+// }
 
-export default Form
+// export default Form
